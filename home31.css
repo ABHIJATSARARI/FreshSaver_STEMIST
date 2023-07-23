@@ -1,0 +1,312 @@
+.primary-button-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.primary-button-button {
+  color: var(--dl-color-gray-white);
+  align-self: center;
+  transition: 0.3s;
+  padding-top: 12px;
+  border-width: 0px;
+  padding-left: 32px;
+  border-radius: var(--dl-radius-radius-radius6);
+  padding-right: 32px;
+  padding-bottom: 12px;
+  background-color: var(--dl-color-purple-default);
+}
+.primary-button-button:hover {
+  background-color: var(--dl-color-purple-900);
+}
+.primary-button-button:active {
+  background-color: var(--dl-color-purple-1000);
+}
+
+
+
+
+@media(max-width: 479px) {
+  .primary-button-root-class-name {
+    top: 777px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+  }
+  .primary-button-root-class-name1 {
+    top: 777px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+  }
+  .primary-button-root-class-name2 {
+    top: 777px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+  }
+}
+
+.home31-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home31-header-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.home31-header {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-doubleunit);
+  z-index: 100;
+  position: relative;
+  max-width: 1110px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.home31-logo {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.home31-image {
+  width: 100px;
+  object-fit: cover;
+}
+.home31-main {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.home31-blur-background {
+  top: 0px;
+  left: auto;
+  right: 0px;
+  width: 100%;
+  bottom: auto;
+  filter: blur(60px);
+  height: 70vh;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f2f2f2;
+}
+.home31-hero {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  padding: var(--dl-space-space-doubleunit);
+  z-index: 100;
+  max-width: 1110px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.home31-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home31-text {
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.home31-turquoise-cirble {
+  top: 439px;
+  left: auto;
+  right: 430px;
+  width: 170px;
+  bottom: auto;
+  filter: blur(60px);
+  opacity: 0.6;
+  position: absolute;
+  object-fit: cover;
+}
+.home31-purple-circle {
+  top: -100px;
+  left: auto;
+  right: -26px;
+  width: 400px;
+  bottom: auto;
+  filter: blur(60px);
+  opacity: 0.4;
+  position: absolute;
+  object-fit: cover;
+}
+.home31-left {
+  top: 653px;
+  left: 0px;
+  right: auto;
+  width: 420px;
+  bottom: auto;
+  position: absolute;
+  object-fit: cover;
+}
+.home31-right {
+  top: 441px;
+  left: auto;
+  right: 0px;
+  width: 612px;
+  bottom: auto;
+  position: absolute;
+  object-fit: cover;
+}
+.home31-features {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-doubleunit);
+  z-index: 100;
+  max-width: 1110px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home31-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+}
+.home31-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+}
+.home31-container4 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+}
+.home31-container5 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+}
+@media(max-width: 991px) {
+  .home31-hero {
+    height: auto;
+    flex-direction: column;
+  }
+  .home31-container1 {
+    align-items: center;
+    margin-bottom: var(--dl-space-space-doubleunit);
+  }
+  .home31-text {
+    text-align: center;
+  }
+}
+@media(max-width: 767px) {
+  .home31-text {
+    font-size: 50px;
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .home31-logo {
+    left: 0px;
+    right: 0px;
+    width: 310px;
+    bottom: -128px;
+    height: 196px;
+    margin: auto;
+    position: absolute;
+    align-self: stretch;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    justify-content: space-between;
+  }
+  .home31-image {
+    top: 60px;
+    left: 94px;
+    position: absolute;
+    align-self: center;
+  }
+  .home31-container1 {
+    height: 197px;
+    margin-top: var(--dl-space-space-tripleunit);
+    padding-top: var(--dl-space-space-tripleunit);
+  }
+  .home31-text {
+    margin-top: var(--dl-space-space-tripleunit);
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .home31-heading {
+    text-align: center;
+  }
+  .home31-container2 {
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .home31-textinput {
+    width: 100%;
+    height: auto;
+    opacity: 0.8;
+    align-self: center;
+    background-color: transparent;
+  }
+  .home31-container3 {
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .home31-textinput1 {
+    width: 100%;
+    opacity: 0.8;
+    align-self: center;
+    background-color: transparent;
+  }
+  .home31-container4 {
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .home31-textinput2 {
+    width: 100%;
+    opacity: 0.8;
+    align-self: center;
+    background-color: transparent;
+  }
+  .home31-container5 {
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .home31-textinput3 {
+    width: 100%;
+    opacity: 0.8;
+    align-self: center;
+    background-color: transparent;
+  }
+}

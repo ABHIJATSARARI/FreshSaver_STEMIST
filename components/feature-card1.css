@@ -1,0 +1,22 @@
+.feature-card1-container {
+  width: 320px;
+  margin: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.feature-card1-image {
+  width: var(--dl-size-size-doubleunit);
+  height: var(--dl-size-size-doubleunit);
+  object-fit: cover;
+}
+.feature-card1-text {
+  text-align: center;
+}
+
+@media(max-width: 767px) {
+  .feature-card1-button {
+    color: #1f181f;
+  }
+}
