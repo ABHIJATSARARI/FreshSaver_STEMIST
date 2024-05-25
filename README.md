@@ -29,6 +29,9 @@ Note that this is a prototype, and the full version of FreshSaver will be equipp
 Feedback and Contribution
 We value your feedback! If you encounter any issues or have suggestions for improvement, please create an issue in the repository. We welcome contributions to help make FreshSaver even better!
 
+## Demo Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8zL4ZNqJHZM/0.jpg)](https://www.youtube.com/watch?v=8zL4ZNqJHZM)
+
 ## License
 FreshSaver is released under the MIT License.
 
@@ -36,3 +39,5 @@ FreshSaver is released under the MIT License.
 This is a prototype version of the app and may contain bugs or incomplete features. The full app release is under development, and your feedback is invaluable in shaping its future.
 
 Thank you for exploring FreshSaver, and together, let's make a positive impact on our environment by reducing food waste and embracing sustainable practices! 🌍🍏 #FreshSaver #ReduceFoodWaste #Sustainability
+
+
