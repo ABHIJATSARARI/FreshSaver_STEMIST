@@ -5,6 +5,7 @@
   position: relative;
   align-items: center;
   flex-direction: column;
+  
 }
 .feature-card-image {
   width: var(--dl-size-size-doubleunit);

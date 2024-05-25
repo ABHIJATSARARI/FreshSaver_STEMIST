@@ -18,6 +18,7 @@ const recipes = [
   ];
   
   let clickCount = 0;
+  
 
 function generateRecipe() {
   // Get the form input values
