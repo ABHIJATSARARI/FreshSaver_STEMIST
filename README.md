@@ -15,6 +15,7 @@ Food Waste Analytics: Gain insights into your consumption habits and progress in
 
 ![logo](https://github.com/ABHIJATSARARI/FreshSaver_STEMIST/blob/main/freshsaver-logo-zip-file/png/logo-no-background.png)
 
+
 ## Getting Started
 Clone the repository to your local machine.
 Navigate to the code folder to find the released app prototype.
